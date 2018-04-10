@@ -1,7 +1,10 @@
 ---
-title: Overview
+title: Learning Resources
 taxonomy:
     category: docs
+    tag: Data Scicence
+        
+    
 ---
 
 
