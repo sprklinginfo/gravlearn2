@@ -10,3 +10,5 @@ child_type: docs
 # Basics
 
 Discover the **basic** principles and more to come!
+
+Thank you!
