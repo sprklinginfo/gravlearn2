@@ -6,9 +6,9 @@ taxonomy:
 child_type: docs
 ---
 
-### Chapter 1
+### Learning Data Science
 
-# Learning Data Science
+# Learning Resources
 
 Discover the **basic** principles and more to come!
 
